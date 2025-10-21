@@ -1,0 +1,23 @@
+[
+  {
+    "car_id": "C001",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "daily_rate": 140.0,
+    "available": true
+  },
+  {
+    "car_id": "C002",
+    "brand": "Mazda",
+    "model": "3",
+    "daily_rate": 160.0,
+    "available": true
+  },
+  {
+    "car_id": "C003",
+    "brand": "Skoda",
+    "model": "Octavia",
+    "daily_rate": 150.0,
+    "available": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "permissions": [
+      "manage_users",
+      "manage_permissions",
+      "manage_inventory",
+      "rent_cars",
+      "manage_finances"
+    ]
+  },
+  {
+    "username": "kasia",
+    "password": "kasia123",
+    "role": "employee",
+    "permissions": [
+      "rent_cars"
+    ]
+  },
+  {
+    "username": "tomek",
+    "password": "tomek123",
+    "role": "employee",
+    "permissions": [
+      "rent_cars"
+    ]
+  }
+]
